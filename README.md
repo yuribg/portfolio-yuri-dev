@@ -1,4 +1,4 @@
-# anandbaraik.github.io
+# portfolio-yuri-dev
 
 Portfolio made with react.js. it has my projects & skills among others.
 
@@ -11,20 +11,20 @@ Portfolio made with react.js. it has my projects & skills among others.
 Clone the project
 
 ```bash
-  git clone https://github.com/anandbaraik/anandbaraik.github.io.git
+  git clone https://github.com/yuribg/portfolio-yuri-dev.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd anandbaraik.github.io
+  cd portfolio-yuri-dev
 ```
 
 Run
 
 ```bash
   npm install
-  yarn start
+  npm start
 ```
 
 ## Screenshot
