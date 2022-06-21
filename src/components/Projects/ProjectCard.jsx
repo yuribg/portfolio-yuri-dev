@@ -9,7 +9,7 @@ function ProjectCard(
         <div className="image-container">
             <a href={projectUrl}
                 className="project-external-link"
-                target="_blank"
+                target="_blank" rel="noreferrer"
                 >
                 <img src={imageUrl} 
                     alt={projectName}
@@ -26,7 +26,7 @@ function ProjectCard(
         </p>
         <a href={projectUrl}
             className="project-live-link"
-            target="_blank">
+            target="_blank" rel="noreferrer">
             View live
         </a>
         </div>
