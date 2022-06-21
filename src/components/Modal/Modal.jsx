@@ -32,7 +32,7 @@ const Modal = ({ closeModal }) => {
                     </ul>
                 </div>
                 <div className='lower-section'>
-                    <a onClick={closeModal} className='modal-btn btn-close'>
+                    <a onClick={closeModal} className='modal-btn btn-close' href="/#">
                         Close
                     </a>
                     <Link className="modal-btn btn-contact" to="/contact">
