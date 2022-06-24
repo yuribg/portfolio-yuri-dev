@@ -34,7 +34,7 @@ class Home extends Component {
                         <p className="btn-text">Know more about me</p>
                     </Link>
                     <Link className="btn btn-transparent" to="/contact">
-                        <p className="btn-text">Contact with me</p>
+                        <p className="btn-text">Contact me</p>
                     </Link>
                 </div>
                 <div className="splash-image">

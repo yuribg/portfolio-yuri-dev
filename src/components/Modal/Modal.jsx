@@ -20,7 +20,7 @@ const Modal = ({ closeModal }) => {
                         I Offer Quality Services and Solutions
                     </h3>
                     <p>
-                        Contact me for below services..👇
+                        Contact me for below services. 👇
                     </p>
                     <ul>
                         <li>
