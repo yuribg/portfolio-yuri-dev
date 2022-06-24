@@ -11,6 +11,7 @@ function ProjectCard(
                 className="project-external-link"
                 target="_blank" rel="noreferrer"
                 >
+                {console.log(imageUrl)}
                 <img src={imageUrl} 
                     alt={projectName}
                     className="project-image"
