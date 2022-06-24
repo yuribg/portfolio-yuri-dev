@@ -6,9 +6,6 @@ import contactVector from "./../../assets/contact_anime.png";
 import gitHub from "./../../assets/gh.png";
 import instaGram from "./../../assets/in.png";
 import linkedIn from "./../../assets/li.png";
-import medium from "./../../assets/me.png";
-import web from "./../../assets/web.png";
-import hashnode from "./../../assets/hashnode.png";
 import { useForm, ValidationError } from '@formspree/react';
 function Contact() {
   const [state, handleSubmit] = useForm("mdobenlw");
@@ -53,32 +50,32 @@ function Contact() {
         </form>
       </div>
       <div className='social-icons-container'>
-        <a href="https://github.com/anandbaraik"
+        <a href="https://github.com/yuribg"
           className='social-icon'
           target="_blank" rel="noreferrer">
           <img src={gitHub} alt='github'/>
         </a>
-        <a href="https://www.linkedin.com/in/anand-baraik/" 
+        <a href="https://www.linkedin.com/in/yuri-galli/" 
           className='social-icon'
           target="_blank" rel="noreferrer">
           <img src={linkedIn} alt='linkedin'/>
         </a>
-        <a href="https://peerlist.io/anandbaraik" 
+        {/* <a href="https://peerlist.io/anandbaraik" 
           className='social-icon'
           target="_blank" rel="noreferrer">
           <img src={web} alt='web'/>
-        </a>
-        <a href="https://anandbaraik.hashnode.dev/"
+        </a> */}
+        {/* <a href="https://anandbaraik.hashnode.dev/"
           className='social-icon'
           target="_blank" rel="noreferrer">
           <img src={hashnode} alt='hashnode'/>
-        </a>
-        <a href="https://medium.com/@anandbaraik"
+        </a> */}
+        {/* <a href="https://medium.com/@anandbaraik"
           className='social-icon'
           target="_blank" rel="noreferrer">
           <img src={medium} alt='medium'/>
-        </a>
-        <a href="https://www.instagram.com/anand__babu/"
+        </a> */}
+        <a href="https://www.instagram.com/galliyuri/"
           className='social-icon'
           target="_blank" rel="noreferrer">
           <img src={instaGram} alt='instagram'/>

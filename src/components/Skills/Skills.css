@@ -3,7 +3,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    margin: 80px 20%;
+    margin: 50px 20%;
 }
 .skill{
     display: flex;

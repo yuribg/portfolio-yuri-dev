@@ -15,33 +15,38 @@ export const skillList = [
         skillName: 'React',
         skillUrl: 'https://user-images.githubusercontent.com/31516195/170096335-c6a18931-394d-444f-918a-51e1d052347b.png',
     },
-    {
-        skillName: 'Redux',
-        skillUrl: 'https://user-images.githubusercontent.com/31516195/170096339-387cbc59-2630-458b-a2b7-a652245ea58a.png',
-    },
-    {
-        skillName: 'NodeJS',
-        skillUrl: 'https://user-images.githubusercontent.com/31516195/170096325-d548fb46-5806-41a1-8af6-43a1bdcc7f89.png',
-    },
+    // {
+    //     skillName: 'Redux',
+    //     skillUrl: 'https://user-images.githubusercontent.com/31516195/170096339-387cbc59-2630-458b-a2b7-a652245ea58a.png',
+    // },
+    // {
+    //     skillName: 'NodeJS',
+    //     skillUrl: 'https://user-images.githubusercontent.com/31516195/170096325-d548fb46-5806-41a1-8af6-43a1bdcc7f89.png',
+    // },
     {
         skillName: 'TypeScript',
         skillUrl: 'https://user-images.githubusercontent.com/31516195/170096347-7a6e9142-2aeb-4a1c-bcbb-da12a21d3aca.png',
     },
+    // {
+    //     skillName: 'Java',
+    //     skillUrl: 'https://user-images.githubusercontent.com/31516195/170096304-f4dfdc9e-5334-4ab2-bc62-95141ac33be6.png',
+    // },
+    // {
+    //     skillName: 'Laravel',
+    //     skillUrl: 'https://user-images.githubusercontent.com/31516195/170096313-9e52f598-1d07-4689-916c-2b9ee3453227.png',
+    // },
+    // {
+    //     skillName: 'MongoDB',
+    //     skillUrl: 'https://user-images.githubusercontent.com/31516195/170096317-6eabc365-6fb1-41e2-b699-ea18f202a145.png',
+    // },
+    // {
+    //     skillName : 'Dart',
+    //     skillUrl: 'https://user-images.githubusercontent.com/31516195/170096298-e906b147-e83f-4874-8467-3b038e399efe.png'
+    // },
     {
-        skillName: 'Java',
-        skillUrl: 'https://user-images.githubusercontent.com/31516195/170096304-f4dfdc9e-5334-4ab2-bc62-95141ac33be6.png',
-    },
-    {
-        skillName: 'Laravel',
-        skillUrl: 'https://user-images.githubusercontent.com/31516195/170096313-9e52f598-1d07-4689-916c-2b9ee3453227.png',
-    },
-    {
-        skillName: 'MongoDB',
-        skillUrl: 'https://user-images.githubusercontent.com/31516195/170096317-6eabc365-6fb1-41e2-b699-ea18f202a145.png',
-    },
-    {
-        skillName : 'Dart',
-        skillUrl: 'https://user-images.githubusercontent.com/31516195/170096298-e906b147-e83f-4874-8467-3b038e399efe.png'
+        skillName : 'Angular',
+        // skillUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png'
+        skillUrl: 'https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png'
     },
     {
         skillName : 'Mysql',
@@ -51,8 +56,8 @@ export const skillList = [
         skillName : 'Php',
         skillUrl: 'https://user-images.githubusercontent.com/31516195/170097980-463780a1-6a86-4d8a-8ba4-dcc882fdf57a.png'
     },
-    {
-        skillName : 'Vue.js',
-        skillUrl: 'https://user-images.githubusercontent.com/31516195/170096352-411826c2-3fcc-410a-bdfb-ce5119acf397.png'
-    },
+    // {
+    //     skillName : 'Vue.js',
+    //     skillUrl: 'https://user-images.githubusercontent.com/31516195/170096352-411826c2-3fcc-410a-bdfb-ce5119acf397.png'
+    // },
 ];

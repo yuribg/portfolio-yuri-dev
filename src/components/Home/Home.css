@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     overflow-y: auto;
-    padding: 100px 10%;
+    padding: 50px 10%;
     box-sizing: border-box;
     min-height: 100vh;
 }
@@ -83,7 +83,8 @@
     justify-content: center;
 }
 .home-anim{
-    margin-bottom: -80px;
+    margin-bottom: 10px;
+    height: 50vh;
 }
 
 /* For small height screen sizes */
